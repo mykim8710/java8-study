@@ -1,4 +1,4 @@
-package ch1_functional_interface_lamda;
+package functional_interface_lamda;
 
 public class RunSomethingMain {
     public static void main(String[] args) {

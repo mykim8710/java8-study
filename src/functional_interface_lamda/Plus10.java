@@ -1,4 +1,4 @@
-package ch1_functional_interface_lamda;
+package functional_interface_lamda;
 
 import java.util.function.Function;
 
